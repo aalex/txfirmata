@@ -1,0 +1,6 @@
+*.pyc
+build/
+*~
+.*.swp
+.DS_Store
+_trial_temp
