@@ -7,3 +7,9 @@ Firmata is based on the [midi message format](http://www.midi.org/techspecs/midi
 
 This is an implementation of the Firmata protocol for Twisted.
 
+See also
+--------
+
+https://github.com/phubbard/twisted-sample-code/blob/master/demos/arduino.py
+https://github.com/crossbario/autobahn-python/blob/master/examples/twisted/wamp/app/serial2ws/serial2ws.py
+
